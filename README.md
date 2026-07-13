@@ -336,17 +336,6 @@ Deployment includes:
 
 ---
 
-# 📈 Resume Highlights
-
-**Multilingual Grammar & Context API**
-
-- Designed a modular FastAPI backend for multilingual grammar evaluation.
-- Built an end-to-end NLP pipeline integrating speech recognition, machine translation, and LLM-based grammar analysis.
-- Engineered structured prompting to detect German grammar errors including adjective declension, case usage, and verb placement.
-- Implemented schema validation, secure API handling, and production-ready deployment architecture.
-
----
-
 # 🤝 Contributing
 
 Contributions, suggestions, and issue reports are welcome.
