@@ -336,20 +336,6 @@ Deployment includes:
 
 ---
 
-# 🤝 Contributing
-
-Contributions, suggestions, and issue reports are welcome.
-
-Feel free to fork the repository and submit a pull request.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ⭐ Why This Project?
 
 Unlike traditional grammar checkers, this project combines speech recognition, machine translation, prompt engineering, and backend architecture into a single production-style NLP service.
