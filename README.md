@@ -2,12 +2,6 @@
 
 > A production-oriented NLP backend that analyzes German text or speech, detects grammatical mistakes using an LLM, and returns structured, learner-friendly feedback.
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Whisper](https://img.shields.io/badge/OpenAI-Whisper-black)
-![LLM](https://img.shields.io/badge/LLM-Claude%20%7C%20GPT-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ---
 
 ## 📖 Overview
