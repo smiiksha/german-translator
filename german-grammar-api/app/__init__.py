@@ -1,0 +1,1 @@
+"""German Grammar API package."""
